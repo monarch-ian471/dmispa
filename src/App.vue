@@ -76,7 +76,7 @@ export default defineComponent({
 <template>
   <div class="container">
     <div class="form-box">
-      <img src="/home/user/dmispa/src/assets/DMI_LOGO.png" alt="Logo" class="logo" />
+      <img src="/dmi_logo.png" alt="Logo" class="logo" /> <!-- Relative to public -->
       <h1 class="title">DMI STUDENT QUESTIONNAIRE</h1>
 
       <form @submit.prevent="convertToJson" class="form">
