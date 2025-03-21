@@ -68,7 +68,7 @@ __VLS_asFunctionalElement(__VLS_intrinsicElements.div, __VLS_intrinsicElements.d
     ...{ class: "form-box" },
 });
 __VLS_asFunctionalElement(__VLS_intrinsicElements.img)({
-    src: "/home/user/dmispa/src/assets/DMI_LOGO.png",
+    src: "/dmi_logo.png",
     alt: "Logo",
     ...{ class: "logo" },
 });
